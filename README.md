@@ -34,5 +34,5 @@
 ---
 
 ### 🤝 Connect With Me
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/developer-anil-kumar/)
+- LinkedIn: [[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/developer-anil-kumar/)](https://www.linkedin.com/in/developer-anil-kumar/)
 - Email: kum09a@gmail.com
